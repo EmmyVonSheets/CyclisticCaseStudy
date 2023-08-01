@@ -125,6 +125,11 @@ Based on the analysis, I recommend the following to optimize Cyclistic's marketi
 - <b>Weekend Promotions:</b> Design special weekend promotions to appeal to casual riders who primarily use the service on weekends. Offer attractive deals for upgrading to annual memberships during these periods.
 - <b>Incentives for Frequent Users:</b> Provide incentives to casual riders who frequently use the service, such as discounts on annual memberships based on the number of rides taken within a specific period.
 - <b>Personalized Digital Campaigns:</b> Utilize digital media to deliver personalized messages to casual riders based on their usage patterns and preferences. These campaigns can highlight the benefits of becoming annual members, tailored to individual user needs.
+
+<h2>Data Sources</h2>
+
+The data for this analysis was obtained from the Divvy [bike-share program](https://divvy-tripdata.s3.amazonaws.com), a bike-sharing service based in Chicago. The dataset used in this analysis includes trip data for the last 12 months, covering a period from July 2022 to June 2023. The data was made available by Divvy under their [data license agreement](https://ride.divvybikes.com/data-license-agreement).
+
 <br />
 <br />
 
